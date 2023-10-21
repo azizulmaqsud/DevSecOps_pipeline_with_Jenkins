@@ -15,10 +15,6 @@
   <p align="center">Home Page</p>
 </div>
 
-
-## Susbcribe:
-[https://www.youtube.com/channel/UCNwP7KEElaJ7cdDTLP-KbBg]
-
 ### **Phase 1: Initial Setup and Deployment**
 
 **Step 1: Launch EC2 (Ubuntu 22.04):**
@@ -752,8 +748,8 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 1. **Cleanup AWS EC2 Instances:**
     - Terminate AWS EC2 instances that are no longer needed.
 
-
-
+## Susbcribe:
+[https://www.youtube.com/channel/UCNwP7KEElaJ7cdDTLP-KbBg]
 
 ## Thank You!
 # Stay Connected !!
