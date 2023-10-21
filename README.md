@@ -1,6 +1,6 @@
 # Deploy Netflix Clone on Cloud using Jenkins in DevSecOps style
 <div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/DevSecOps.PNG?raw=true" alt="Logo" width="100%" height="100%">
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
