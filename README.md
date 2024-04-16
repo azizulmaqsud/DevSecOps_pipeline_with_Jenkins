@@ -752,5 +752,3 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 ## Thank You!
 
 
-
-<a href="https://www.buymeacoffee.com/azizulmaqsud"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=scaleupsaas&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> # DevSecOps_pipeline_with_Jenkins
