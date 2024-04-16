@@ -754,10 +754,6 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 ## Thank You!
 # Stay Connected !!
 
-https://www.youtube.com/channel/UCNwP7KEElaJ7cdDTLP-KbBg
-
-https://www.linkedin.com/in/azizul-maqsud/
-
 https://azizulmaqsud-1684501031000.hashnode.dev/
 
 https://medium.com/@azizulmaqsud
